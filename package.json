@@ -1,0 +1,24 @@
+{
+  "name": "use-fetch",
+  "version": "1.0.0",
+  "description": "Fetch api react hook",
+  "main": "use-fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VivekRanjan94/use-fetch.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "fetch"
+  ],
+  "author": "Vivek Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivekRanjan94/use-fetch/issues"
+  },
+  "homepage": "https://github.com/VivekRanjan94/use-fetch#readme"
+}
